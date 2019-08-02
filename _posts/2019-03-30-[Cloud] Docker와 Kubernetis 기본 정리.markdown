@@ -1,9 +1,3 @@
----
-layout: post
-title:  "Docker와 Kubernetis 기본 정리"
-date:   2019-03-30 00:00:00
-categories: cloud
----
 Google StudyJam 에서 제공하는 Google Cloud 강좌를 듣고 정리한 글입니다.
 이번 코스는 coursera 에서 강의를 들을 수 있고 총 4파트로 구분된다.
 

@@ -1,3 +1,0 @@
-카카오 뱅크만을 활용한 월급 돈관리!
-
-![Image of KakaoBank](https://github.com/sungwoo91/sungwoo91.github.io/blob/master/assets/images/kakaobank.png?raw=true)
