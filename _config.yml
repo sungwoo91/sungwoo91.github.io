@@ -1,5 +1,5 @@
-title: LEESUNGWOO
-# author: LEESUNGWOO
+# title: LEESUNGWOO
+author: LEESUNGWOO
 email: tols3319@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
 
@@ -13,8 +13,8 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github:  https://github.com/sungwoo91/sungwoo91.github.io
-    rss: rss
+    # github:  https://github.com/sungwoo91/sungwoo91.github.io
+    # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
