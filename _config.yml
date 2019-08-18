@@ -2,9 +2,9 @@ title: LEE SUNGWOO
 author: LEE SUNGWOO
 email: tols3319@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  # Write an awesome description for your new site here. You can edit this
+  # line in _config.yml. It will appear in your document head meta (for
+  # Google search results) and in your feed.xml site description.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -15,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github: https://github.com/sungwoo91
+    # github: jekyll
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
